@@ -1,0 +1,32 @@
+h1{
+    font-family: Helvetica;
+    font-size: 80px;
+    color: #168cd1;
+    text-align: center;
+    background-color: chartreuse;
+    font-style: italic;
+    font-weight: 300;
+}
+
+body{
+    background-color: aqua;
+}
+
+.one{
+    background-color: chocolate;
+}
+
+body{
+    background-image: -moz-element();
+}
+
+.contact{
+    background-color: cornflowerblue;
+    background-image: -moz-linear-gradient();
+}
+
+.about{
+    background-color: darkorchid;
+}
+
+
